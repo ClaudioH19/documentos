@@ -7,4 +7,3 @@ En este repositorio se almacenará documentación, artículos y papers relevante
 
 ## 📌 Notas
 - Solo se almacenará documentación con fines académicos.  
-- Asegúrate de incluir la referencia bibliográfica de cada paper en el gestor que uses (Zotero, Mendeley, etc.).
