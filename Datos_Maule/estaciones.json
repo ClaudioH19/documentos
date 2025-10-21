@@ -1,0 +1,193 @@
+{
+  "estaciones": [
+    {
+      "comuna": "Cauquenes",
+      "latitud": -35.97222,
+      "longitud": -72.33250,
+      "altura": 150,
+      "codigo_estacion": 350018
+    },
+    {
+      "comuna": "Pelluhue",
+      "latitud": -35.83555,
+      "longitud": -72.58750,
+      "altura": 172,
+      "codigo_estacion": 350097
+    },
+    {
+      "comuna": "Chanco",
+      "latitud": -35.73167,
+      "longitud": -72.53583,
+      "altura": 59,
+      "codigo_estacion": 350033
+    },
+    {
+      "comuna": "Parral",
+      "latitud": -36.213333,
+      "longitud": -71.737499,
+      "altura": 213,
+      "codigo_estacion": 360043
+    },
+    {
+      "comuna": "Retiro",
+      "latitud": -36.07555,
+      "longitud": -71.75805,
+      "altura": 162.0,
+      "codigo_estacion": 360047
+    },
+    {
+      "comuna": "Longavi",
+      "latitud": -35.95305,
+      "longitud": -71.60805,
+      "altura": 171.0,
+      "codigo_estacion": 350092
+    },
+    {
+      "comuna": "Empedrado",
+      "latitud": -35.54333,
+      "longitud": -72.09444,
+      "altura": 210.0,
+      "codigo_estacion": 350006
+    },
+    {
+      "comuna": "Linares",
+      "latitud": -35.836944,
+      "longitud": -71.592777,
+      "altura": 160.0,
+      "codigo_estacion": 350901
+    },
+    {
+      "comuna": "Yerbas buenas",
+      "latitud": -35.690555,
+      "longitud": -71.553888,
+      "altura": 184,
+      "codigo_estacion": 350086
+    },
+    {
+      "comuna": "Colbún",
+      "latitud": -35.662500,
+      "longitud": -71.453611,
+      "altura": 250,
+      "codigo_estacion": 350088
+    },
+    {
+      "comuna": "San Javier",
+      "latitud": -35.629999,
+      "longitud": -71.603888,
+      "altura": 170,
+      "codigo_estacion": 350085
+    },
+    {
+      "comuna": "Maule",
+      "latitud": -35.576666,
+      "longitud": -71.678888,
+      "altura": 119,
+      "codigo_estacion": 350087
+    },
+    {
+      "comuna": "Constitución",
+      "latitud": -35.333333,
+      "longitud": -72.433333,
+      "altura": 7,
+      "codigo_estacion": 350004
+    },
+    {
+      "comuna": "San Clemente",
+      "latitud": -35.530554,
+      "longitud": -71.479443,
+      "altura": 221,
+      "codigo_estacion": 350064
+    },
+    {
+      "comuna": "Talca",
+      "latitud": -35.377777,
+      "longitud": -71.601111,
+      "altura": 119,
+      "codigo_estacion": 350028
+    },
+    {
+      "comuna": "Pencahue",
+      "latitud": -35.455833,
+      "longitud": -71.772221,
+      "altura": 71,
+      "codigo_estacion": 350083
+    },
+    {
+      "comuna": "San Rafael",
+      "latitud": -35.303888,
+      "longitud": -71.475832,
+      "altura": 158,
+      "codigo_estacion": 350082
+    },
+    {
+      "comuna": "Curepto",
+      "latitud": -35.096666,
+      "longitud": -72.061944,
+      "altura": 60,
+      "codigo_estacion": 350002
+    },
+    {
+      "comuna": "Sagrada Familia",
+      "latitud": -34.99694,
+      "longitud": -71.37444,
+      "altura": 164,
+      "codigo_estacion": 340145
+    },
+    {
+      "comuna": "Molina",
+      "latitud": -35.04972,
+      "longitud": -71.24805,
+      "altura": 233,
+      "codigo_estacion": 350080
+    },
+    {
+      "comuna": "Curicó",
+      "latitud": -34.96944,
+      "longitud": -71.21694,
+      "altura": 220,
+      "codigo_estacion": 340031
+    },
+    {
+      "comuna": "Romeral",
+      "latitud": -34.960277,
+      "longitud": -71.125277,
+      "altura": 311,
+      "codigo_estacion": 340029
+    },
+    {
+      "comuna": "Teno",
+      "latitud": -34.878888,
+      "longitud": -71.165277,
+      "altura": 289,
+      "codigo_estacion": 340142
+    },
+    {
+      "comuna": "Rauco",
+      "latitud": -34.92500,
+      "longitud": -71.28305,
+      "altura": 212,
+      "codigo_estacion": 340143
+    },
+    {
+      "comuna": "Hualañé",
+      "latitud": -34.96750,
+      "longitud": -71.83167,
+      "altura": 39,
+      "codigo_estacion": 340028
+    },
+    {
+      "comuna": "Licantén",
+      "latitud": -34.98555,
+      "longitud": -71.98444,
+      "altura": 29,
+      "codigo_estacion": 340030
+    },
+    {
+      "comuna": "Vichuquén",
+      "latitud": -34.76555,
+      "longitud": -71.95667,
+      "altura": 23,
+      "codigo_estacion": 340138
+    }
+  ]
+}
